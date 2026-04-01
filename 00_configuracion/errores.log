@@ -1,0 +1,18 @@
+ValueError: Error: entrada vacía
+ValueError: Error: el nombre no debe contener números
+ValueError: Error: el nombre no debe contener números
+ValueError: invalid literal for int() with base 10: ''
+ValueError: invalid literal for int() with base 10: ''
+ValueError: invalid literal for int() with base 10: 'jose'
+ZeroDivisionError: No se pueden dividir entre 0
+ValueError: invalid literal for int() with base 10: '333j'
+ZeroDivisionError: No se pueden dividir entre 0
+ZeroDivisionError: No se pueden dividir entre 0
+ZeroDivisionError: No se pueden dividir entre 0
+ZeroDivisionError: No se pueden dividir entre 0
+ZeroDivisionError: No se pueden dividir entre 0
+ValueError: Error: entrada vacía
+ValueError: Error: el nombre no debe contener números
+ValueError: invalid literal for int() with base 10: 'a'
+ValueError: invalid literal for int() with base 10: '333jose'
+ZeroDivisionError: No se pueden dividir entre 0
