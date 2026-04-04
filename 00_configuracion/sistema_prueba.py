@@ -31,6 +31,7 @@ def obtener_usuario():
         except Exception as e:
             print(f"⚠️ {e} (Tipo: {type(e).__name__})")
             registrar_error(f"{type(e).__name__}: {e}", "WARNING")
+            raise
 
 
 def obtener_numero_valido():
@@ -49,7 +50,8 @@ def obtener_numero_valido():
 
         except Exception as e:
             print(f"⚠️ {e} (Tipo: {type(e).__name__})")
-            registrar_error(f"{type(e).__name__}: {e}", "WARNING")
+            registrar_error(f"{type(e).__name__}: {e}")
+            raise
 
 
 def calcular_division(numero):

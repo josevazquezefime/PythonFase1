@@ -16,3 +16,17 @@ ValueError: Error: el nombre no debe contener números
 ValueError: invalid literal for int() with base 10: 'a'
 ValueError: invalid literal for int() with base 10: '333jose'
 ZeroDivisionError: No se pueden dividir entre 0
+[2026-03-31 20:47:02] [WARNING] ValueError: El nombre no debe contener números
+[2026-03-31 20:47:08] [WARNING] ValueError: El nombre no debe contener números
+[2026-03-31 20:47:09] [WARNING] ValueError: El nombre no debe contener números
+[2026-03-31 20:47:10] [WARNING] ValueError: El nombre no debe contener números
+[2026-03-31 20:47:10] [WARNING] ValueError: El nombre no debe contener números
+[2026-03-31 20:47:11] [WARNING] ValueError: El nombre no debe contener números
+[2026-03-31 20:47:11] [WARNING] ValueError: El nombre no debe contener números
+[2026-03-31 20:47:12] [WARNING] ValueError: El nombre no debe contener números
+[2026-03-31 20:47:15] [WARNING] ValueError: El nombre no debe contener números
+[2026-03-31 20:47:17] [WARNING] ValueError: Entrada vacía
+[2026-03-31 20:47:32] [WARNING] ZeroDivisionError: No se puede dividir entre 0
+[2026-03-31 20:47:33] [WARNING] ValueError: invalid literal for int() with base 10: ''
+[2026-03-31 20:47:37] [WARNING] ValueError: El número debe estar entre 1 y 100
+[2026-03-31 20:47:41] [WARNING] ValueError: invalid literal for int() with base 10: 'gg'
