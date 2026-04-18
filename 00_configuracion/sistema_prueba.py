@@ -24,7 +24,7 @@ CONFIG = {
 # ================= SETUP DE DIRECTORIOS =================
 def inicializar_directorios():
     os.makedirs("logs", exist_ok=True)
-    os.makedirs("data", exist_ok=True)
+    os.makedirs("data", exist_ok=True)  
 
 
 # ================= CONFIGURACIÓN DE LOGGING =================
@@ -155,4 +155,4 @@ def main():
 
 # ================= ENTRY POINT =================
 if __name__ == "__main__":
-    main()
+    main()  
